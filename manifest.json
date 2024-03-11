@@ -1,0 +1,16 @@
+{
+    "name": "Laska",
+    "short_name": "Laska",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#24272e",
+    "theme_color": "#20795f",
+    "icons": [
+      {
+        "src": "icon.png", 
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
